@@ -27,5 +27,7 @@ This project fine-tunes Stable Diffusion using LoRA and generates images with th
 - LoRA warning during generation is safe to ignore.
 - Image generation requires a GPU.
 - **This task actually needs a larger dataset** for better results.
+- The link to the Colab Notebook: https://colab.research.google.com/drive/1Mf29QhBxnFu78EYmEZlpjI1S9bFLdann?usp=sharing
+  
 
 
